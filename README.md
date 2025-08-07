@@ -65,7 +65,7 @@ a cleanup script called clean.sh
 
 Just type:
 
-    ./doit.sh
+    ./demo.sh
 
 And wait - maybe for quite a while ...
 
